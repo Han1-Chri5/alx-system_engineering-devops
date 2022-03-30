@@ -17,3 +17,4 @@ Shell script to move all files beginning with a cpital letter to a specified dir
 Shell script that deleates all emacs file within the current directory
 Shell script that creates specifed directories in the current directory
 Shell script that lists all files and directories of the current directory separated by commas
+Magic file that can be used with command file to detect specified data files
