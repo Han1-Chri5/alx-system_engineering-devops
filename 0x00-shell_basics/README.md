@@ -6,3 +6,4 @@ Shell script that displays all files including hidden in long format
 Shell script to display all content in current directory in long format with user and group IDs and hidden files
 Shell script that creates a specified directory in the tmp directory
 Shell script to move a specific file from one directory to another
+Shell script that deletes a scpecific file in its directory
