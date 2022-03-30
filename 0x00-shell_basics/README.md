@@ -10,3 +10,4 @@ Shell script that deletes a scpecific file in its directory
 Shell script to delete a specific directory in its directory
 Shell script to change working directory to the previous one
 Shell script to list all files in the current and parent of working directory and the boot directory
+Shell script that prints the type of file named
