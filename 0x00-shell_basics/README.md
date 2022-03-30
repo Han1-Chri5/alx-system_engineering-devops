@@ -13,3 +13,4 @@ Shell script to list all files in the current and parent of working directory an
 Shell script that prints the type of file named
 Shell script that creates a symbolic link
 Shell script that copies all new HTML files
+Shell script to move all files beginning with a cpital letter to a specified directory
