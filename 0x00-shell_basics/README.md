@@ -15,3 +15,4 @@ Shell script that creates a symbolic link
 Shell script that copies all new HTML files
 Shell script to move all files beginning with a cpital letter to a specified directory
 Shell script that deleates all emacs file within the current directory
+Shell script that creates specifed directories in the current directory
