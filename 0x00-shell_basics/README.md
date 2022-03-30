@@ -12,3 +12,4 @@ Shell script to change working directory to the previous one
 Shell script to list all files in the current and parent of working directory and the boot directory
 Shell script that prints the type of file named
 Shell script that creates a symbolic link
+Shell script that copies all new HTML files
