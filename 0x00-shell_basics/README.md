@@ -7,3 +7,4 @@ Shell script to display all content in current directory in long format with use
 Shell script that creates a specified directory in the tmp directory
 Shell script to move a specific file from one directory to another
 Shell script that deletes a scpecific file in its directory
+Shell script to delete a specific directory in its directory
