@@ -13,3 +13,4 @@ My 0x01-shell_permissions readme
 11-Script that adds execute permissions to only subdirectories of a current directory
 12-Script that creates a directory with permissions 751
 13-Script that changes the group owner of a file
+14-Script that changes the owner and group owner of all files and directories
