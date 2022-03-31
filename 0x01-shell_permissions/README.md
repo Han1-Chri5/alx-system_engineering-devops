@@ -9,3 +9,4 @@ My 0x01-shell_permissions readme
 7-Script that adds permissions to execute to all users
 8-Script that sets permissions to only other world users
 9-Script that sets the mode of the file to specified attributes
+10-Script that sets the file mode to reference that of another
