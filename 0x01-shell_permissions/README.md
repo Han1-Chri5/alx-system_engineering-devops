@@ -7,3 +7,4 @@ My 0x01-shell_permissions readme
 5-Script that adds the execute permission to the owner of a file
 6-Script that adds multiple specified permissions to specified users
 7-Script that adds permissions to execute to all users
+8-Script that sets permissions to only other world users
