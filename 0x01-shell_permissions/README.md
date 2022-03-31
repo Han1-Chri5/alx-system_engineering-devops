@@ -6,3 +6,4 @@ My 0x01-shell_permissions readme
 4-Script that creates an empty file
 5-Script that adds the execute permission to the owner of a file
 6-Script that adds multiple specified permissions to specified users
+7-Script that adds permissions to execute to all users
