@@ -4,3 +4,4 @@ My 0x01-shell_permissions readme
 2-Script that prints all the groups of the current user
 3-Script that changes the owner of a file to a different user
 4-Script that creates an empty file
+5-Script that adds the execute permission to the owner of a file
