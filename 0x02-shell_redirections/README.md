@@ -15,3 +15,4 @@ My 0x02-shell_redirections readme
 13-Shell script that uses uniq
 14-Shell script that displays a specific pattern
 15-Shell script that displays the number of lines that contain a specific pattern
+16-Shell script that displays a specific pattern and 3 lines after
