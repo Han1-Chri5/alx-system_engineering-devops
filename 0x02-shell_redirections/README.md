@@ -4,3 +4,4 @@ My 0x02-shell_redirections readme
 2-Shelll script that displays content of a file
 3-Shell script that displays content of two different files
 4-Shell script that displays the last 10 lines of a file
+5-Shell script that displays the first 10 lines of a file
