@@ -22,3 +22,4 @@ My 0x02-shell_redirections readme
 20-Shell script that deletes specific letters
 21-Shell script that reverses its input
 22-Shell script that lists all users and their home directories sorted by users
+23-Shell script that find all empty files and directories in the cwd and lists them
