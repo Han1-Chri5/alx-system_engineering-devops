@@ -11,3 +11,4 @@ My 0x02-shell_redirections readme
 9-Shell Script that duplicates the last line of a file
 10-Sehell script that deletes all regular javascript files
 11-Shell script that counts the number of directories and subdirectories in cwd
+12-Shell script that displys 10 newest files in cwd
