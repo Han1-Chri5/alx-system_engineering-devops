@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t | grep "'date | head -10
+find . -maxdepth 1 -mtime -1 | head
