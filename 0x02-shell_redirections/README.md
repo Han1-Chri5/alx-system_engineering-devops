@@ -24,3 +24,4 @@ My 0x02-shell_redirections readme
 22-Shell script that lists all users and their home directories sorted by users
 23-Shell script that find all empty files and directories in the cwd and lists them
 24-Shell script that find all regular files that are gifs in the cwd and its subdirectories
+26-Shell script that parses web server logs in TSV and displays 11 hosts with the most requests
