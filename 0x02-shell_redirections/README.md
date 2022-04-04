@@ -19,3 +19,4 @@ My 0x02-shell_redirections readme
 17-Shell script that displays lines that do not contain a specific pattern
 18-Shell script that displays all lines of a file starting with a letter including capital letters
 19-Shell script that replaces specific letters
+20-Shell script that deletes specific letters
