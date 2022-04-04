@@ -13,3 +13,4 @@ My 0x02-shell_redirections readme
 11-Shell script that counts the number of directories and subdirectories in cwd
 12-Shell script that displys 10 newest files in cwd
 13-Shell script that uses uniq
+14-Shell script that displays a specific pattern
