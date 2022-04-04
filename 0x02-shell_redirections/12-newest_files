@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -mtime -1 | head
+ls -ltr . | grep "$(date +"Apr 4")"
