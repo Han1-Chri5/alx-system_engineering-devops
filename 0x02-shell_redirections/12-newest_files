@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr . | grep "$(date +"Apr 4")"
+ls -ltr . | grep "$(date +"Apr 4")" | head
