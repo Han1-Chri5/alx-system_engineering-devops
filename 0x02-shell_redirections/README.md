@@ -20,3 +20,4 @@ My 0x02-shell_redirections readme
 18-Shell script that displays all lines of a file starting with a letter including capital letters
 19-Shell script that replaces specific letters
 20-Shell script that deletes specific letters
+21-Shell script that reverses its input
