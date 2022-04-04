@@ -14,3 +14,4 @@ My 0x02-shell_redirections readme
 12-Shell script that displys 10 newest files in cwd
 13-Shell script that uses uniq
 14-Shell script that displays a specific pattern
+15-Shell script that displays the number of lines that contain a specific pattern
