@@ -17,3 +17,4 @@ Script that creates an alias
 14-Script that converts from base 10 to base 16
 15-Script that encodes and decodes text using rot13 encryption
 16-Script that prints every other line from the input
+17-Script that adds the two numbers stored in the WATER and STIR variables
