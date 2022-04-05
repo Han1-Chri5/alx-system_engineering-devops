@@ -5,3 +5,4 @@ Script that creates an alias
 2-Script that adds a new path name
 3-Script that counts the number of directories in PATH
 4-Script that lists environment variables
+5-Script that lists all local and environment variables and functions
