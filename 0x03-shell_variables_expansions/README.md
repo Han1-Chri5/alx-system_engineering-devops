@@ -15,3 +15,4 @@ Script that creates an alias
 12-Script that prints all possible combinations of two letters except infinity
 13-Script that prints a number with two decimal places followed by a new line
 14-Script that converts from base 10 to base 16
+15-Script that encodes and decodes text using rot13 encryption
