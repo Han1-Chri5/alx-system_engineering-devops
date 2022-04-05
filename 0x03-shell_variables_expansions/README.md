@@ -12,3 +12,4 @@ Script that creates an alias
 9-Script that prints the result of POWER divided by DIVIDE
 10-Script that displays the result of a power arithmetic
 11-Script that converts a number from base 2 to base 10
+12-Script that prints all possible combinations of two letters except infinity
