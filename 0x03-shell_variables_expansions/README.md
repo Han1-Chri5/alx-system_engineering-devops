@@ -13,3 +13,4 @@ Script that creates an alias
 10-Script that displays the result of a power arithmetic
 11-Script that converts a number from base 2 to base 10
 12-Script that prints all possible combinations of two letters except infinity
+13-Script that prints a number with two decimal places followed by a new line
