@@ -10,3 +10,4 @@ Script that creates an alias
 7-Script that creates a new global variable
 8-Script that prints the result of the addition of 128
 9-Script that prints the result of POWER divided by DIVIDE
+10-Script that displays the result of a power arithmetic
