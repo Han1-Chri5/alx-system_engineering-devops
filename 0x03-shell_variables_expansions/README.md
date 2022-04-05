@@ -8,3 +8,4 @@ Script that creates an alias
 5-Script that lists all local and environment variables and functions
 6-Script that creates a new local variable
 7-Script that creates a new global variable
+8-Script that prints the result of the addition of 128
