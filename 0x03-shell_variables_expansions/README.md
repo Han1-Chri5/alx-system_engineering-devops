@@ -6,3 +6,4 @@ Script that creates an alias
 3-Script that counts the number of directories in PATH
 4-Script that lists environment variables
 5-Script that lists all local and environment variables and functions
+6-Script that creates a new local variable
